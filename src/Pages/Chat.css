@@ -1,0 +1,21 @@
+.messageinput{
+    position: absolute;
+    top: 120px;
+    left: 40%;
+    border: 4px gray solid; 
+border-radius: 10px;
+width: 360px;
+height: 30px;
+font-size: 20px;
+}
+.send{
+    position: absolute;
+    top: 120px;
+    left: 59%;
+    background-color: black;
+color: white;
+border-radius: 5px;
+width: 90px;
+height: 40px;
+font-size: 20px;
+}

@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.Login{
+    width: 480px;
+    height: 600px;
+    border: 1px solid darkgray; 
+    position: absolute;
+    top: 90px;
+    left: 700px;
+}
+.input{
+    width: 370px;
+    height: 50px;
+    border-radius: 6px;
+    color: black;
+    border: 1px solid lightgrey;
+    margin-bottom: 25px;
+    margin-top: 10px;
+  
+}
+.submit{
+    width: 90px;
+    height: 40px;
+    background-color:lightgreen;
+    border: 0px;
+    border-radius: 6px;
+    color:black;
+    font-weight: bold;
+}
+.register{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+    position: relative;
+    left: 188px;
+    top: 90px;
+ 
+}
+.fgt{
+    text-decoration: none;
+    position: relative;
+    left: 95px;
+    top:130px;
+}
